@@ -32,11 +32,11 @@ timezone: Europe/Berlin # default: local timezone
 
 ## Custom settings used by plugins and the theme
 author:
-  name: Michael Nordmeyer
-  # email: xxx@example.com
-  uri: https://michaelnordmeyer.com/
-  copyright: Copyright © Michael Nordmeyer
-  license_link: https://raw.githubusercontent.com/michaelnordmeyer/jekyll-theme-nix/main/LICENSE
+  name: knoz
+  email: knoz@example.com
+  uri: http://knoz.org/
+  copyright: Copyright © knoz
+  # license_link: https://raw.githubusercontent.com/michaelnordmeyer/jekyll-theme-nix/main/LICENSE
 # date_format: "%b %-d, %Y" # default: "%Y-%m-%d"
 lang: en-US # default: en (is not by Jekyll, but used by many other plugins)
 title_separator: " • " # default: " | "
