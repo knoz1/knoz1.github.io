@@ -1,5 +1,5 @@
 ---
-title:
+title: Tanzmusik
 date: 2024-12-06 12:00:00 +0000
 permalink: /DMC-Tanzmusik
 sitemap: false
