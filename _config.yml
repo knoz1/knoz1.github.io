@@ -1,7 +1,7 @@
 ## Remove URL for GitHub Pages plugin
-url: https://jekyll-theme-nix.michaelnordmeyer.com
-title: Jekyll Theme Nix
-description: "A barebones theme for Jekyll"
+#url: https://jekyll-theme-nix.michaelnordmeyer.com
+title: Knoz
+description: "Hi my name is"
 
 plugins:
   - jekyll-feed
